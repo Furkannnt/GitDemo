@@ -1,0 +1,2 @@
+class HomePageData:
+    pass
